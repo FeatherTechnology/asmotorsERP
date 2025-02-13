@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702029663101",
+    "project_id": "asmotros",
+    "storage_bucket": "asmotros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702029663101:android:3cae35f47fda902fba9a14",
+        "android_client_info": {
+          "package_name": "com.erpasmotors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYLjRKIxROaEwhbMpbUTke08c9EP1sJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
